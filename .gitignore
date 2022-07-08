@@ -8,3 +8,4 @@ hello.cpp
 hello
 *.dSYM
 .DS_Store
+.vscode/
