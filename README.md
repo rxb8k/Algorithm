@@ -19,3 +19,4 @@ AC RATING History from [solved.ac](https://solved.ac/profile/jssong/history)
 |2022.09.05| |밥 먹듯이 알고리즘 풀기 [밥알 챌린지](https://github.com/Likelion-Inha-10/BAP-AL-Challenge) 시작|
 |2022.09.10|🥈 Silver V|
 |2022.09.23|🥈 Silver IV|
+|2022.10.05|🥈 Silver III|
