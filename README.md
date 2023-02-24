@@ -21,3 +21,5 @@ AC RATING History from [solved.ac](https://solved.ac/profile/jssong/history)
 |2022.09.23|🥈 Silver IV|
 |2022.10.05|🥈 Silver III|
 |2022.12.02|🥈 Silver II|
+|2023.01.24|🥈 Silver II|
+|2023.02.24|🥇 Gold V|
